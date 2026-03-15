@@ -1,0 +1,2 @@
+set SSLKEYLOGFILE=
+streamlit run app.py
