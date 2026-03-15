@@ -1,8 +1,8 @@
 streamlit
 pandas
 openpyxl
-sentence-transformers==2.7.0
+sentence-transformers==3.0.1
 scikit-learn
-transformers==4.44.0
+transformers==4.46.0
 torch
 sentencepiece
