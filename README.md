@@ -1,8 +1,5 @@
 
 
-<<<<<<< HEAD
-
-
 ##### **🏛️ Civic Insight Analyzer**
 
 
